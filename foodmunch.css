@@ -1,0 +1,227 @@
+#nav1{
+    color: black;
+}
+#nav2{
+    color: black;
+}
+#nav3{
+    color: black;
+}
+.logo{
+    height: 50px;
+    width: 80px;
+}
+.bg-cont-bg-image{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.heading-top{
+    color: white;
+    font-size: 30px;
+    font-family:"roboto";
+}
+.para-top{
+    color: white;
+    font-size: 20px;
+    font-family: "roboto";
+}
+.ordernow-button{
+    width: 100px;
+    height: 30px;
+    color:black;
+    background-color: yellow;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.viewdetails-button{
+    color:yellow;
+    background-color: transparent;
+    border-color: yellow;
+    border-radius: 8px;
+    width: 110px;
+    height: 30px;
+    border-width: 1px;
+}
+.foodservice-img{
+    height:90px;
+    width: 80px;
+}
+.wcu-heading{
+    color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.wcu-para{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.wcu-card{
+    border-radius: 10px;
+    background-color:white;
+    border-color:whitesmoke;
+    border-style: solid;
+    border-width: 2px;
+}
+.wcu-head{
+    font-size: 30px;
+    font-family: "roboto";
+    color: black;
+}
+.wcu-para1{
+    color: black;
+    font-size: 18px;
+    font-family: "roboto";
+}
+.em-img{
+    border-radius: 20px;
+}
+.em-heading{
+    color: #323f4b;
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+.em-main-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.em-anchor{
+    color: #d0b200;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+
+}
+.em-card{
+    border-radius: 15px;
+}
+.fho-section{
+    background-color: #f9fbfe;
+}
+.fho-img{
+    width:270px;
+}
+.fho-heding{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.fho-para{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.fho-button{
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.dp-heading{
+    color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.dp-section{
+    background-color: white;
+}
+.dp-img{
+    width: 270px;
+}
+.dp-para{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.dp-button{
+    color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.thank-section{
+    background-color: #d0b2001a;
+}
+.thank-heading{
+    color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.thank-para{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.thank-img{
+    width: 270px;
+  margin-bottom: 20px;
+}
+.thank-button{
+    color: white;
+  background-color: #d0b200;
+  width: 140px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.icon-bg{
+
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+.icon{
+    color: #d0b200;
+  font-size: 35px;
+
+}
+.fu-heading{
+    text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.footer-section{
+    background-color: #0d2436;
+}
+.footer-heading{
+    color: #959ead;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.footer-para{
+    color: #959ead;
+  font-family: "Roboto";
+  font-size: 14px;
+}
+.payment-card-img{
+    width: 50px;
+  height: 50px;
+  margin-right: 28px;
+}
